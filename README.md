@@ -6,7 +6,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E8B57&center=true&vCenter=true&width=720&lines=Embedded+Hardware+Developer;STM32+%7C+Firmware+%7C+PCB+Design;From+Schematic+to+Running+Firmware;Build+It.+Flash+It.+Make+It+Work."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E8B57&center=true&vCenter=true&width=720&lines=Embedded+Hardware+Developer;STM32+%7C+AT32+%7C+GD32;Firmware+%7C+PCB+Design;Build+It.+Flash+It.+Make+It+Work."
     alt="Typing animation introducing FTP-LI"
   />
 </a>
@@ -34,7 +34,7 @@
 ##  关于我
 
 -  主线方向：嵌入式硬件开发与 MCU 固件开发
--  当前关注：STM32、外设驱动、通信协议与 PCB 设计
+-  当前关注：STM32、AT32、GD32、外设驱动、通信协议与 PCB 设计
 -  持续整理：学习代码、工程项目、硬件资料与开发笔记
 -  开源目标：让项目具备清晰文档、可复现代码与完整硬件资料
 -  内容分享：通过 GitHub、哔哩哔哩与立创开源平台记录开发过程
@@ -45,7 +45,7 @@
 
 | 方向 | 关注内容 |
 | --- | --- |
-| MCU 与固件 | STM32F103、STM32F411、裸机开发、外设驱动 |
+| MCU 与固件 | STM32F103、STM32F411、AT32、GD32、裸机开发、外设驱动 |
 | 通信接口 | UART、I²C、SPI、CAN |
 | 硬件设计 | 原理图、PCB Layout、焊接与硬件调试 |
 | 工程实践 | Git、技术文档、问题定位、开源项目维护 |
@@ -64,6 +64,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/AT32-Artery-E60012?style=flat-square" alt="Artery AT32">
+  <img src="https://img.shields.io/badge/GD32-GigaDevice-1B5EAA?style=flat-square" alt="GigaDevice GD32">
   <img src="https://img.shields.io/badge/ARM_Cortex-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM Cortex">
   <img src="https://img.shields.io/badge/UART-555555?style=flat-square" alt="UART">
   <img src="https://img.shields.io/badge/I²C-555555?style=flat-square" alt="I2C">
