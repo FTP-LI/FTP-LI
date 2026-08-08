@@ -6,7 +6,7 @@
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E8B57&center=true&vCenter=true&width=720&lines=Embedded+Hardware+Developer;STM32+%7C+AT32+%7C+GD32;Firmware+%7C+PCB+Design;Build+It.+Flash+It.+Make+It+Work."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E8B57&center=true&vCenter=true&width=720&lines=Embedded+Hardware+Developer;STM32+%7C+AT32+%7C+GD32;Rockchip+RK+%7C+Raspberry+Pi;Firmware+%7C+PCB+%7C+Embedded+Linux;Build+It.+Flash+It.+Make+It+Work."
     alt="Typing animation introducing FTP-LI"
   />
 </a>
@@ -34,7 +34,7 @@
 ##  关于我
 
 -  主线方向：嵌入式硬件开发与 MCU 固件开发
--  当前关注：STM32、AT32、GD32、外设驱动、通信协议与 PCB 设计
+-  当前关注：STM32、AT32、GD32、Rockchip RK、Raspberry Pi、嵌入式 Linux 与 PCB 设计
 -  持续整理：学习代码、工程项目、硬件资料与开发笔记
 -  开源目标：让项目具备清晰文档、可复现代码与完整硬件资料
 -  内容分享：通过 GitHub、哔哩哔哩与立创开源平台记录开发过程
@@ -46,6 +46,7 @@
 | 方向 | 关注内容 |
 | --- | --- |
 | MCU 与固件 | STM32F103、STM32F411、AT32、GD32、裸机开发、外设驱动 |
+| 嵌入式算力 | Rockchip RK 系列、Raspberry Pi、嵌入式 Linux、边缘计算 |
 | 通信接口 | UART、I²C、SPI、CAN |
 | 硬件设计 | 原理图、PCB Layout、焊接与硬件调试 |
 | 工程实践 | Git、技术文档、问题定位、开源项目维护 |
@@ -71,6 +72,15 @@
   <img src="https://img.shields.io/badge/I²C-555555?style=flat-square" alt="I2C">
   <img src="https://img.shields.io/badge/SPI-555555?style=flat-square" alt="SPI">
   <img src="https://img.shields.io/badge/CAN-555555?style=flat-square" alt="CAN">
+</p>
+
+### Compute & Embedded Linux
+
+<p>
+  <img src="https://img.shields.io/badge/Rockchip_RK-Embedded_Linux-5965A8?style=flat-square" alt="Rockchip RK">
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Embedded Linux">
+  <img src="https://img.shields.io/badge/Edge_Computing-2E8B57?style=flat-square" alt="Edge computing">
 </p>
 
 ### Hardware & Tools
